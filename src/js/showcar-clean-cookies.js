@@ -58,7 +58,8 @@ const whiteList = [
     'feedback_shown',
     'shownewclassifiedlist',
     'last-seen-classified-guid',
-    'last-5-seen-classifieds'
+    'last-5-seen-classifieds',
+    'combined-leads'
 ];
 
 const deleteCookieByName = function(cookie) {
